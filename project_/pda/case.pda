@@ -1,0 +1,18 @@
+; problem of maching ( and )s 
+
+#Q = {q,f}
+
+#S = {(,)}
+
+#G = {1,z}
+
+#q0 = q
+
+#z0 = z
+
+#F = {f}
+
+q ( z q 1z
+q ( 1 q 11
+q ) 1 q _
+q _ z f z
